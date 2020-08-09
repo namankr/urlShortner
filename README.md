@@ -8,7 +8,7 @@
 # Install dependencies
 npm install
 
-Optional
+Edit mongoURI 
 # Edit the default.json file with your mongoURI and baseUrl
 
 
